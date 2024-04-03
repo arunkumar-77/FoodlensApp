@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886745235563",
+    "project_id": "textextractor-a4ab4",
+    "storage_bucket": "textextractor-a4ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886745235563:android:ccd58fd3f4cfba6780b12e",
+        "android_client_info": {
+          "package_name": "com.example.googlelensclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886745235563-chlai0ef1nce58mnldhivk1lsnasstd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxYTiNPi07oVjD-ATjdiyQi5iK2DBYIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886745235563-chlai0ef1nce58mnldhivk1lsnasstd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

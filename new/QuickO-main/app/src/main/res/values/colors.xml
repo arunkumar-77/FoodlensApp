@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lavender">#E6E6FA</color>
+    <color name="HotPink">#FF69B4</color>
+
+    <!-- changed color -->
+    <color name="plum">#DDA0DD</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#808080</color>
+
+    <!-- newly added colors -->
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="light_blue">#12B2E6</color>
+
+    <color name="black_shade_1">#292D36</color>
+    <color name="yellow">#ffa500</color>
+</resources>
